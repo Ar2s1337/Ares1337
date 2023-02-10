@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=750&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+My+Friends;You+Are+On+Ares'+Github;Have+Fun+%3A);Ar%C3%A8s%232257" alt="Typing SVG" /></a>
 
 ```
-  ⠀⠀
+  ⠀⠀[(ares@root;)]: 
  
  
-       _nnnn_                           [(ares@root;)]:       a young Web Developer And Cybersecurity Enthusiast
+       _nnnn_                             Young Web Developer And Cybersecurity Enthusiast
         dGGGGMMb     ,"""""""""""""".                     
        @p~qp~~qMb    | Hello Root ! |                        HTML  > 7/10           
        M|@||@) M|   _;..............'                         CSS  >  6/10         
