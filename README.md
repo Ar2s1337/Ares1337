@@ -8,10 +8,10 @@
  
        _nnnn_                             Young Web Developer And Cybersecurity Enthusiast
         dGGGGMMb     ,"""""""""""""".                     
-       @p~qp~~qMb    | Hello Root ! |                        HTML  > 7/10           
-       M|@||@) M|   _;..............'                         CSS  >  6/10         
-       @,----.JM| -'                                           JS  >   5/10
-      JS^\__/  qKL                                               PY  >   5/10
+       @p~qp~~qMb    | Hello Root ! |                                   
+       M|@||@) M|   _;..............'                                  
+       @,----.JM| -'                                           
+      JS^\__/  qKL                                              
      dZP        qKRb
     dZP          qKKb                                                          
    fZP            SMMb
